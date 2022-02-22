@@ -7,7 +7,7 @@ function App() {
       <div className="flex flex-col justify-between h-screen">
         <Navbar />
       </div>
-      <h1>Hello world!</h1>
+      <main>Content</main>
     </Router>
   );
 }
